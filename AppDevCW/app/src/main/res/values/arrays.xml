@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="level_array">
+
+        <item>Little to no exercise</item>
+        <item>1–3 days per week</item>
+        <item>3–5 days per week</item>
+        <item>6–7 days per week</item>
+
+    </string-array>
+
+
+
+    <string-array name="gender_array">
+
+        <item>Male</item>
+        <item>Female</item>
+
+    </string-array>
+
+
+
+    <string-array name="system_array">
+
+        <item>Metric</item>
+        <item>Imperial</item>
+
+    </string-array>
+
+
+    <string-array name="Workout_array">
+
+        <item>Workout A</item>
+        <item>Workout B</item>
+        <item>Workout 100 reps</item>
+
+
+    </string-array>
+
+
+    <string-array name="split_array">
+
+        <item>50/30/20(Moderate)</item>
+        <item>60/25/15(High Carb)</item>
+        <item>40/30/30(Zone Diet)</item>
+        <item>25/45/30(Low Carb)</item>
+
+    </string-array>
+
+
+
+
+    <string-array name="menu_array">
+
+        <item>BMI Calculator</item>
+        <item>Daily Calorie Intake</item>
+        <item>Macronutrient Calculator</item>
+        <item>Workout!</item>
+        <item>My times!</item>
+        <item>Information</item>
+
+    </string-array>
+
+
+    <string-array name="Exercises1_array">
+        <item>You will do:</item>
+        <item>Pushups x30</item>
+        <item>Situps x60</item>
+        <item>Squats x60</item>
+        <item>Planks 90seconds</item>
+
+    </string-array>
+
+    <string-array name="Exercises2_array">
+        <item>You will do:</item>
+        <item>Pushups x30</item>
+        <item>Mountain Climbers x60</item>
+        <item>Burpees x30</item>
+        <item>Squats x30</item>
+    </string-array>
+
+    <string-array name="Exercises3_array">
+        <item>You will do:</item>
+        <item>Pushups x100</item>
+        <item>Situps x100</item>
+        <item>Mountain Climbers x100</item>
+        <item>Burpees x100</item>
+        <item>Squats x100</item>
+
+    </string-array>
+
+
+
+
+
+
+</resources>
