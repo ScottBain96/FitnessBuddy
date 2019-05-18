@@ -1,8 +1,11 @@
 <h1>FitnessBuddy</h1>
 
-Fitness Buddy Android Application created in Android Studio.
+Fitness Buddy Android Application created in Android Studio. This was the first smartphone application I ever created and I had no previous experience with Android Studio.
+
 Documentation of the process of creating the application is also provided in the "40214330 Report.pdf" file.
+
 The application deals with alot of user input data, meaning that all the forms require to have some type of error handling to only allow correct data. The application will alert the user if any data is incorrect by using a toast message.
+
 The following are screenshots of the application running on my smartphone (Samsung S7 Edge), source images can be found in the images folder.
 
 <h2> The application </h2>
