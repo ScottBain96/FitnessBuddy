@@ -6,7 +6,7 @@ Documentation of the process of creating the application is also provided in the
 
 The application deals with alot of user input data, meaning that all the forms require to have some type of error handling to only allow correct data. The application will alert the user if any data is incorrect by using a toast message.
 
-The following are screenshots of the application running on my smartphone (Samsung S7 Edge), source images can be found in the images folder (apologies, the text on the README images can be hard to read since they are resized).
+The following are screenshots of the application running on my smartphone (Samsung S7 Edge), source images can be found in the images folder (the text on the README images can be hard to read since they are resized).
 
 <h2> The application </h2>
 
